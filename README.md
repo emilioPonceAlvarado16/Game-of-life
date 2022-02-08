@@ -22,9 +22,3 @@ n: N threads
 m: mostrar (show)
 
 
-## How to run the automated tests.
-
-```bash
-cd ./unit_tests
-python3 test_logModule_main.py
-```
